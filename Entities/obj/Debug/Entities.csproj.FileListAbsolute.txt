@@ -1,0 +1,80 @@
+C:\Users\Rahmen\source\repos\HBook_v2\Entities\bin\Debug\Entities.dll
+C:\Users\Rahmen\source\repos\HBook_v2\Entities\bin\Debug\Entities.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Rahmen\source\repos\HBook_v2\Entities\obj\Debug\Entities.dll
+C:\Users\Rahmen\source\repos\HBook_v2\Entities\obj\Debug\Entities.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\Entities\bin\Debug\Entities.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\Entities\bin\Debug\Entities.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\Entities\obj\Debug\Entities.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\Entities\obj\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2\Entities\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\Entities\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2\Entities\obj\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\Entities\obj\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\Entities\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\Entities\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\Entities\obj\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\Entities\obj\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\Entities\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\Entities\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\Entities\obj\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\Entities\obj\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\Entities\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\Entities\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\Entities\obj\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\Entities\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\Entities\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\Entities\obj\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\Entities\obj\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\Entities\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\Entities\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\Entities\obj\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\Entities\obj\Debug\Entities.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\Entities\bin\Debug\Entities.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\Entities\bin\Debug\Entities.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\Entities\obj\Debug\Entities.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\Entities\obj\Debug\Entities.pdb

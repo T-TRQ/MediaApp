@@ -1,0 +1,39 @@
+﻿<Window x:Class="HBook.Views.SearchUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ViewModel="clr-namespace:HBook.ViewModels"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance Type=ViewModel:SearchUserViewModel}"
+        Title="SearchUser" Height="450" Width="350">
+    <!--<Window.DataContext>
+        <ViewModel:SearchUserViewModel/>
+    </Window.DataContext>-->
+    <Grid>
+        <Border Width="300" Height="390">
+            <StackPanel>
+                <TextBlock Text="Search Users" FontSize="18" FontWeight="Heavy"/>
+                <TextBox x:Name="SearchUserTextBox" Text="{Binding SearchUserText}"/>
+                <Button x:Name="SearchButton" Content="Search" Width="100" HorizontalAlignment="Right"
+                        Command="{Binding SearchUserCommand}"/>
+
+
+                <ListView ItemsSource="{Binding Users}" SelectedItem="{Binding SelectedUser}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <WrapPanel>
+                                <TextBlock Text="{Binding Name}"/>
+                            </WrapPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+               
+                <Button x:Name="SendFriendRequest" Content="Send friend request"
+                        Width="150" Margin="0,50,0,0" Command="{Binding SendFriendRequestCommand}"/>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

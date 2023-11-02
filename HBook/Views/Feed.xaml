@@ -1,0 +1,102 @@
+﻿<Window x:Class="HBook.Views.Feed"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HBook.Views"
+        xmlns:ViewModel="clr-namespace:HBook.ViewModels"
+        xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+        mc:Ignorable="d"
+        Title="Feed" Height="550" Width="900" >
+    <Window.DataContext>
+        <ViewModel:FeedViewModel/>
+    </Window.DataContext>
+
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding LoadFriendPostsCommand}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Left">
+
+            <TextBlock Text="New from friends" FontSize="18" Margin="150,0,0,20" FontWeight="Heavy"/>
+            <Grid Margin="20, -20, 0, 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60"></ColumnDefinition>
+                    <ColumnDefinition Width="60" ></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Content="Order by:" Grid.Column="0"/>
+                <Button Content="Recent" Grid.Column="1" FontSize="16" HorizontalAlignment="Left" Command="{Binding SortRecentCommand}"/>
+                <Button Content="Oldest" Grid.Column="2" FontSize="16" HorizontalAlignment="Left" Command="{Binding SortOldestCommand}"/>
+            </Grid>
+            
+            <ListView ItemsSource="{Binding Posts}"
+                      SelectedItem="{Binding SelectedPost}" 
+                      Width="500" Height="400" HorizontalAlignment="Center"
+                      Margin="10" ScrollViewer.CanContentScroll="False">
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="User:"/>
+                                <Label Content="{Binding User.Name}"/>
+                            </StackPanel>
+                            <Image Source="{Binding PostImage.Source}"
+                                       MaxHeight="200"/>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Description"/>
+                                <Label Content="{Binding Post.Text}"/>
+                            </StackPanel >
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Publishdate"/>
+                                <Label Content="{Binding Post.PublishDate}"/>
+                                <Label Content="Reactioncount"/>
+                                <Label Content="{Binding Post.ReactionCount}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Like" Margin="25,10,10,10" FontSize="16" Command="{Binding UpVoteCommand }"/>
+                <Button Content="Dislike" Margin="10" FontSize="16" Command="{Binding DownVoteCommand }"/>
+                <TextBox x:Name="CommentTextbox" Width="300" Text="{Binding Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <Button x:Name="CommentButton" Content="Comment" Margin="10" FontSize="16" Command="{Binding CommentCommand}"/>
+            </StackPanel>
+        </StackPanel>
+
+
+
+        <StackPanel Width="380" HorizontalAlignment="Right" Orientation="Vertical">
+            <StackPanel Margin="30,30">
+                <Label Content="Comments" FontSize="18" FontWeight="Heavy" Margin="100,0,0,0"/>
+                <ListView ItemsSource="{Binding Comments}" SelectedItem="{Binding SelectedComment}">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <Label Content="User: "/>
+                                    <Label Content="{Binding User.Name}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <Label Content="{Binding Text}"/>
+                                </StackPanel >
+                                <StackPanel Orientation="Horizontal">
+                                    <Label Content="Publishdate"/>
+                                    <Label Content="{Binding PublishDate}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Button x:Name="RemoveCommentButton" Content="Remove comment" Margin="10" Width="150" FontSize="16" Command="{Binding DeleteCommentCommand}" Visibility="{Binding RemoveCommentVisibility}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

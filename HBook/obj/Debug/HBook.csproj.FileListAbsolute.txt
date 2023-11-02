@@ -1,0 +1,981 @@
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\App.g.cs
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\HBook.exe.config
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\HBook.exe
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\HBook.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\Entities.dll
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\DataLayer.dll
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\Entities.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.g.resources
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.exe
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\obj\Debug\HBook.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rahmen\source\repos\HBook_v2\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\App.g.cs
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.exe
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\HBook.exe.config
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\HBook.exe
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\HBook.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\BusinessLayer.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\Entities.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\EntityFramework.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\DataLayer.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\BusinessLayer.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\Entities.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\EntityFramework.xml
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\DataLayer.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\bin\Debug\DataLayer.dll.config
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\Views\MainWindow.baml
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.g.resources
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\Views\ucRegisterUser.g.cs
+D:\Programmering\Lab 2 komplettering\HBook_v2\HBook\obj\Debug\Views\ucRegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\CreateNewFriendRequest.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\ucRegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreateNewFriendRequest.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreateNewFriendRequest.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.exe.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreateNewFriendRequest.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreateNewFriendRequest.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.g.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreateNewFriendRequest.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreateNewFriendRequest.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\CreateNewFriendRequest.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\CreateNewFriendRequest.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\HBook.exe.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.g.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\HBook\obj\Debug\Views\Feed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\Feed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MakeComment.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\Feed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\MakeComment.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\HBook\obj\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\HBook.exe.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\Feed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.g.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\Feed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\MakeComment.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\Feed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\MakeComment.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\HBook\obj\Debug\HBook.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\HBook.exe.config
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\HBook.exe
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\HBook.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Entities.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\DataLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Entities.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\DataLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\App.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\Feed.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.g.resources
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.exe
+C:\Users\William\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\HBook.exe.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\Feed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.g.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\HBook\obj\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucFeed.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\App.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.lref
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucFeed.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.baml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.g.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.Properties.Resources.resources
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.exe
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.g.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe.config
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\App.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.g.resources
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.exe
+C:\Users\William\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.exe
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\HBook.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Entities.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucFeed.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\App.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\Feed.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucFeed.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.g.resources
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.exe
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_19\HBook\obj\Debug\HBook.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.exe.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.exe
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Entities.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Entities.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\App.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\Feed.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.g.resources
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.exe
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.exe.config
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.exe
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Entities.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Entities.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\App.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\Feed.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.g.resources
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.exe
+C:\Users\William\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.exe.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\HBook.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\BusinessLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\CreatePost.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\Feed.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\FriendRequests.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\LoginUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MakeComment.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\RegisterUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\SearchUser.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\ucHomeProfile.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\App.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook_MarkupCompile.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook_MarkupCompile.lref
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\CreatePost.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\Feed.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\FriendRequests.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\LoginUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MainWindow.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\MakeComment.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\RegisterUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\SearchUser.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\Views\ucHomeProfile.baml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.g.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.Properties.Resources.resources
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.GenerateResource.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.exe
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_22\HBook\obj\Debug\HBook.pdb

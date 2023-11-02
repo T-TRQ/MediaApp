@@ -1,0 +1,233 @@
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\Entities.dll
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Rahmen\source\repos\HBook_v2\DataLayer\obj\Debug\DataLayer.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\DataLayer.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\DataLayer.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\Entities.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\EntityFramework.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\Entities.pdb
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\EntityFramework.xml
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\obj\Debug\DataLayer.dll
+D:\Programmering\Lab 2 komplettering\HBook_v2\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_03_31\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_05\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_06\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_05\HBook_v2_2021_04_07\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_11\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_13\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_14\HBook_v2_2021_04_14\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_15\DataLayer\obj\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\Entities.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\Entities.pdb
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.dll
+D:\Skolarbete\Komplettering OOSU Lab2_3\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\Entities.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Klara Fritsch\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\Entities.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\Entities.pdb
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William\Desktop\HBook_v2_2021_04_19\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\Entities.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Oliver\Desktop\HBook_v2_2021_04_22\DataLayer\obj\Debug\DataLayer.pdb
